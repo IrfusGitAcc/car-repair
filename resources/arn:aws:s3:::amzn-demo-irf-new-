@@ -1,0 +1,13 @@
+ 
+
+Amazon Resource Name (ARN)
+arn:aws:s3:::amzn-demo-irf-new- 
+
+AWS Region
+US West (Oregon) us-west-2
+
+
+http://amzn-demo-irf-new-website.s3-website-us-west-2.amazonaws.com  Bucket website endpoint
+
+
+s3://amzn-demo-irf-new-website   website destination
